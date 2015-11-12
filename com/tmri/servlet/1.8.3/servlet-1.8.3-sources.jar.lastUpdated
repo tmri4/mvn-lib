@@ -1,0 +1,16 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Sep 24 10:31:02 CST 2015
+@default-http\://git.oschina.net/thinkgem/repos/raw/master/.lastUpdated=1443061861033
+http\://maven.oschina.net/content/groups/public/.error=
+http\://download.java.net/maven/2/.lastUpdated=1443061840693
+http\://maven.oschina.net/content/groups/public/.lastUpdated=1443061839153
+http\://repo.maven.apache.org/maven2/.lastUpdated=1443061836742
+https\://raw.github.com/thinkgem/repository/master/.error=
+http\://repo.spring.io/release/.error=
+http\://download.java.net/maven/2/.error=
+http\://repo.maven.apache.org/maven2/.error=
+http\://repo.spring.io/release/.lastUpdated=1443061841544
+https\://raw.github.com/thinkgem/repository/master/.lastUpdated=1443061862710
+http\://repo1.maven.org/maven2/.error=
+http\://repo1.maven.org/maven2/.lastUpdated=1443061842095
+http\://git.oschina.net/thinkgem/repos/raw/master/.error=Could not transfer artifact org.apache.ant\:servlet\:jar\:sources\:1.8.3 from/to thinkgem-repos (http\://git.oschina.net/thinkgem/repos/raw/master)\: Software caused connection abort\: recv failed
